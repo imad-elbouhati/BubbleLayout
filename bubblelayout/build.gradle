@@ -48,7 +48,7 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.imad-elbouhati'
-                artifactId = 'bubble-layout-library'
+                artifactId = 'BubbleLayout'
                 version = '1.0'
             }
         }
